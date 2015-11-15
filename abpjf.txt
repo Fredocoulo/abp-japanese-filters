@@ -353,7 +353,7 @@
 &affid=$popup
 ! Commented out duplicated filters [https://github.com/k2jp/abp-japanese-filters/issues/9 reported] by [https://github.com/SMed79 SMed79], Jun 20, 2015
 ! &affiliate=$popup
-&affiliateid=
+! &affiliateid=
 &affiliateid=$popup
 &AffliateReferenceID=$popup
 &afid=
@@ -409,8 +409,8 @@
 ! &promo_type=
 &Pub_ID=
 &Pub_ID=$popup
-&PubID=
-&PubID=$popup
+! &PubID=
+! &PubID=$popup
 &publisherID=
 &publisherID=$popup
 &px.pluginh=$popup
@@ -6803,7 +6803,7 @@ _yahooads_
 ||brealtime.com^$third-party
 ||breedac.com^
 ! Note: Probably, blocking the whole domain is too strict, Apr 29, 2012
-||brightcove.com^$third-party
+! ||brightcove.com^$third-party
 ||brightcove.com/1pix.
 ||brilig.com^$third-party
 ||broadstreetads.com^$third-party
